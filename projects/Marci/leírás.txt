@@ -1,0 +1,4 @@
+A projektemben az alapítvány számlakivonatát dolgoztam fel. 
+Egy excel fájlból olvastam be a tranzakciók adatait, amelyeket pandas-ban csoportosítottam.
+A csoportosított tranzakciókat havi és kategóriánként bontásban vizualizáltam egy charton.
+Végül a dash felületére ágyaztam be a chartot, melyen be lehet állítani, hogy a bevételek, kiadásokat vagy a teljes egyenleget lássuk.
